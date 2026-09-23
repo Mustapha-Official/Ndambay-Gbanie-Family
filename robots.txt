@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mustapha-official.github.io/Ndambay-Gbanie-Family/sitemap.xml
